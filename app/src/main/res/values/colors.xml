@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorStatusBar">#F5F5F5</color>
+    <color name="colorActionBar">#FCFCFC</color>
+    <color name="colorNavigationBar">#555555</color>
+    <color name="colorSensorValueBg">#FBFBFB</color>
+    <color name="colorLocationText">#B4B4B4</color>
+    <color name="colorAppText">#00DED6</color>
+    <color name="colorFirstSensorText">#777777</color>
+    <color name="colorAboutText">#7B7B7B</color>
+    <color name="colorSensorValue">#00B7B0</color>
+    <color name="colorSensorWarning">#FF3E4B</color>
+</resources>
